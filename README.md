@@ -19,4 +19,6 @@ Tìm kiếm trong môi trường phức tạp: AND-OR Search, Belief Search (Sen
 
 Constraint Satisfaction: Backtracking (biểu diễn 8-puzzle dưới dạng CSP)
 
-Reinforcement Learning: Q-Learning (demo minh họệ)
+Reinforcement Learning: Q-Learning (demo minh họa)
+
+
