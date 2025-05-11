@@ -15,10 +15,10 @@ Informed Search: A*, IDA*, Greedy Best-First
 
 Local Search: Hill Climbing, SAHC, SHC, Simulated Annealing, Beam Search
 
-Tìm kiếm trong môi trường phức tạp: AND-OR Search, Belief Search (Sensorless)
+Tìm kiếm trong môi trường phức tạp: AND-OR Search, Belief Search
 
-Constraint Satisfaction: Backtracking (biểu diễn 8-puzzle dưới dạng CSP)
+Constraint Satisfaction: Backtracking
 
-Reinforcement Learning: Q-Learning (demo minh họa)
+Reinforcement Learning: Q-Learning
 
 
